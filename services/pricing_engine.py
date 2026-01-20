@@ -1,5 +1,3 @@
-# services/pricing_engine.py
-
 def calculate_per_person_rates(contract: dict) -> dict:
     """
     Returns the commissioned and marked-up rates per person for each season.
